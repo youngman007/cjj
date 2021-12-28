@@ -5,4 +5,4 @@
 
 ESP8266 作为 STA TCP Client 向网络助手上传 DHT11 温湿度+光敏响应
 
-SDK version:1.0.0
+SDK version:1.0.0（2.0升级版本即将发布，敬请期待）
